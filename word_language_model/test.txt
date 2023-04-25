@@ -1,0 +1,6 @@
+training perplexities:
+520.68
+validation perplexities:
+236.72
+test perplexity:
+173.5
